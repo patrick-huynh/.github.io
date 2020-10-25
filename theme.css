@@ -1,0 +1,92 @@
+h2 {
+	float:left;
+	font-family:"Adobe Heiti Std";
+	color:white;
+}
+a {
+	text-align:right
+}
+hr {
+	height:5px;
+	background-color:black;
+	width:85%
+}	
+p {
+	font-size:20px;
+	margin-left:65px;
+	margin-right:65px;
+	margin-top:0px;
+}
+li {
+	font-size:25px;
+	margin-left:65px;
+	margin-right:65px;
+}
+.navbar {
+	overflow:hidden;
+	background-color:#4F0000;
+	position:fixed; 
+	top:0; 
+	width:100%;
+	margin-left:0px
+}
+.navbar a {
+	float:right;
+	display:block;
+	color:white;
+	padding:26px 16px;
+	text-decoration:none;
+	margin-right:10px
+}
+.navbar a:hover {
+	background:#ddd;
+		color:black;
+}
+body {
+	margin-top:100px;
+	margin-left:0px;
+	background-image:url('background.jpg');
+	font-family:"century gothic", arial, sans-serif;
+	font-size:17px
+}
+h3 {
+	text-align:center;
+	font-family:impact;
+	font-size:45px;
+	margin-left:65px;
+	margin-right:65px;
+}
+img { 
+	border:5px solid #021a40;
+	border-style:solid;
+	border-color:black;
+}
+h4 {
+	font-size:35px;
+	text-align:center
+}
+a {
+	display:inline-block;
+}
+h4 {
+	font-family:"Adobe Heiti Std";
+	font-size:1.5em;
+}
+table, th, tr {
+	border:2.5px solid black;
+	margin-left:27%;
+	margin-bottom:40px;
+	text-align:middle;
+	padding:10px; /*Padding is a style we have not learned and this adds space around the text making it look less cluttered.*/
+	border-collapse:collapse;
+}
+ul {
+	margin-left:65px
+	margin-right:65px
+}
+h1 {
+	margin-left:25px
+}
+hr {
+	border-color:black;
+}
